@@ -1,6 +1,10 @@
-# nasa-search
+# Vue-NASA API-Search
 
-> Seearch NASA API
+Search the NASA API images database.
+
+Stack: Vue.js & Axios
+
+See the <a href='http://capaly.nl/rik/nasa-search/'>demo here.</a>
 
 ## Build Setup
 
