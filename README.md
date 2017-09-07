@@ -2,7 +2,7 @@
 
 Search the NASA API images database.
 
-Stack: Vue.js & Axios
+Stack: Vue.js, Vuetify & Axios
 
 See the <a href='http://capaly.nl/rik/nasa-search/'>demo here.</a>
 
